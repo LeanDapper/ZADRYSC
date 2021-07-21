@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trophy_zadry.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trophy zadry0000" x="0" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0001" x="312" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0002" x="624" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0003" x="936" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0004" x="1248" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0005" x="1560" y="0" width="262" height="355"/>
+	<SubTexture name="trophy zadry0006" x="0" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0007" x="312" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0008" x="624" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0009" x="624" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0010" x="624" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0011" x="624" y="405" width="262" height="355"/>
+	<SubTexture name="trophy zadry0012" x="624" y="405" width="262" height="355"/>
+</TextureAtlas>
